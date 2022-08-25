@@ -192,7 +192,8 @@ input[type-checkbox]:checked + label:before{
     #meals{
         width: 80%;
         margin: auto;
-    }
+.fa-arrow-left:before {
+  content: "\f060"; }    }
     
     #recipe{
         width: 80%;
@@ -234,6 +235,7 @@ input[type-checkbox]:checked + label:before{
     }
 }
 
-
-
+#desert.html
+.fa-arrow-left:before ('images/logo-text.png')
+  content: "\f060"; }
 
